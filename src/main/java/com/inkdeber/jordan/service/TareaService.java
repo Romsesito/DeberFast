@@ -12,7 +12,7 @@ public class TareaService {
     private List<Tarea> tareas = new ArrayList<>();
 
     public TareaService() {
-        // Datos quemados
+
         Tarea t1 = new Tarea();
         t1.setId(1L);
         t1.setEmpleado("Carlos");
@@ -40,7 +40,7 @@ public class TareaService {
     }
 
     public Tarea agregarTarea(Tarea tarea) {
-        tarea.setId((long) (tareas.size() + 1)); // Generar ID simple
+        tarea.setId((long) (tareas.size() + 1));
         tareas.add(tarea);
         return tarea;
     }
