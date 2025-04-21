@@ -1,7 +1,7 @@
 ## Importante
 
-Enlace a la aplicación -> [Frontend en Vercel](https://interfaz-72azpnvwe-romsesitos-projects.vercel.app)
-Video explicativo -> [Video de YouTube](https://www.youtube.com/watch?v=TSs06RZzzJc)
+- **Enlace a la aplicación** -> [Frontend en Vercel](https://interfaz-72azpnvwe-romsesitos-projects.vercel.app)
+- **Video explicativo** -> [Video de YouTube](https://www.youtube.com/watch?v=TSs06RZzzJc)
 ## Características
 
 - **Gestión de tareas**: Crear, actualizar, eliminar y listar tareas.
